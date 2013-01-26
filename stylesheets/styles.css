@@ -21,7 +21,11 @@ h1, h2, h3 {
 }
 
 header h1 {
-  font-size:78px;
+  font-size:58px;
+}
+
+header h1 img {
+  margin-bottom: -7px;
 }
 
 header h2 {
